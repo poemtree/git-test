@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# test!!
+# test!
 **Hello my name is Poemtree**
 
 **This is a test file**
